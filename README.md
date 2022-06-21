@@ -12,7 +12,8 @@ Used to be a photographer, but last year i've decided to change my life, and sta
 *   🚀  I'm currently working on [Personal Projects as a Junior Software Dev. 👀](https://www.linkedin.com/in/pedrohenriqueaguiar/)
 *   🧠  I'm learning JavaScript and React. 🤖
 <p align="left">
-     
+ 
+     ----------------------------------------------------------------------
     
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
