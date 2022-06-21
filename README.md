@@ -1,4 +1,4 @@
-Hi 👋 My name is Pedro de Aguiar
+Hi 👋 My name is Pedro Aguiar
 ================================
 
 Junior Software Dev - Ruby on Rails | React | JavaScript |
