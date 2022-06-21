@@ -30,6 +30,6 @@ Used to be a photographer, but last year i've decided to change my life, and sta
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagiar&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
-  <div align="left">   
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedroagiar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- </div>
+
