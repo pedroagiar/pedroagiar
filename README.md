@@ -13,7 +13,6 @@ Used to be a photographer, but last year i've decided to change my life, and sta
 *   🧠  I'm learning JavaScript and React. 🤖
 <p align="left">
      
-I can work with 🧠
     
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -25,14 +24,12 @@ I can work with 🧠
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-My stats 👨‍💻
     
-  <div>
+  <div align="right">
 <a href="https://github.com/pedroagiar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagiar&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagiar&layout=compact&langs_count=7&theme=dracula"/>
-  
+  <div align="left">   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedroagiar&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-</div>
+ </div>
