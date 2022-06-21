@@ -7,10 +7,10 @@ Junior Software Dev - Ruby | Ruby on Rails | JavaScript | HTML & CSS |
 Used to be a photographer, but last year i've decided to change my life, and start study how to coding and build softwares. I've worked as Product Designer, and used to go to the college, where i did advertising school. I love cinema, photography, but i need to try new horizons.
 
 *   🌍  I'm based in Rio de Janeiro
-*   🖥️  See my portfolio at [My Website](http://bio.site/pedroaguiar)
+*   🖥️  See my portfolio at [Behance]([http://bio.site/pedroaguiar](https://www.behance.net/pedro_aguiar))
 *   ✉️  You can contact me at [pedroaguiar.edu@gmail.com](mailto:pedroaguiar.edu@gmail.com)
-*   🚀  I'm currently working on [Student at LeWagon Coding School.](http://www.lewagon.com/)
-*   🧠  I'm learning Ruby, Ruby on Rails, JSON, Heroku, Git, JavaScript, HTML & CSS.
+*   🚀  I'm currently working on [Personal Projects as a Junior Software Dev. 👀](https://www.linkedin.com/in/pedrohenriqueaguiar/)
+*   🧠  I'm learning JavaScript and React. 🤖
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
