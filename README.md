@@ -1,7 +1,7 @@
 Hi 👋 My name is Pedro Aguiar
 ================================
 
-Junior Software Dev - Ruby on Rails | React | JavaScript |
+Junior Software Dev - Ruby on Rails | JavaScript | 
 ----------------------------------------------------------------------
 
 Used to be a photographer, but last year i've decided to change my life, and start study how to coding and build softwares. I've worked as Product Designer, and used to go to the college, where i did advertising school. I love cinema, photography, but i need to try new horizons.
