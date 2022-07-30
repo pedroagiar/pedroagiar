@@ -6,7 +6,7 @@ Junior Software Dev - Ruby on Rails | JavaScript | React
 
 Used to be a photographer, but last year i've decided to change my life, and start study how to coding and build softwares. I've worked as Product Designer, and used to go to the college, where i did advertising school. I love cinema, photography, but i need to try new horizons.
 
-*   🌍  I'm based in Rio de Janeiro
+*   🌍  I'm based in Rio de Janeiro - Brazil!
 *   🖥️  See my portfolio at [Behance]([http://bio.site/pedroaguiar](https://www.behance.net/pedro_aguiar))
 *   ✉️  You can contact me at [pedroaguiar.edu@gmail.com](mailto:pedroaguiar.edu@gmail.com)
 *   🚀  I'm currently working on [Personal Projects as a Junior Software Dev. 👀](https://www.linkedin.com/in/pedrohenriqueaguiar/)
