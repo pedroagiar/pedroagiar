@@ -10,7 +10,7 @@ Used to be a photographer, but last year i've decided to change my life, and sta
 *   🖥️  See my portfolio at [Behance]([http://bio.site/pedroaguiar](https://www.behance.net/pedro_aguiar))
 *   ✉️  You can contact me at [pedroaguiar.edu@gmail.com](mailto:pedroaguiar.edu@gmail.com)
 *   🚀  I'm currently working on [Personal Projects as a Junior Software Dev. 👀](https://www.linkedin.com/in/pedrohenriqueaguiar/)
-*   🧠  I'm learning JavaScript, NodeJS & React. 🤖
+*   🧠  I'm learning JavaScript, Node.JS & React. 🤖
 <p align="left">
  
  ----------------------------------------------------------------------
